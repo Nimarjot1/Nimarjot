@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nimarjot kaur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimarjot1&label=Profile%20views&color=0e75b6&style=flat" alt="nimarjot1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimarjot1" alt="nimarjot1" /></a> </p>
 
-- 🔭 I’m currently working on **Exit the plugin**
+- 🔭 I’m currently working on **NeuroPath:IOS APP**
 
-- 🌱 I’m currently learning **React and Node**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **nimarjotk@gmail.com**
 
